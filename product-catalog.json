@@ -1,0 +1,84 @@
+{
+  "categoryImages": {
+    "mobiles": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97"
+    ],
+    "laptops": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853"
+    ],
+    "fashion": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1539008835657-9e8e9680c956",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    ],
+    "electronics": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "https://images.unsplash.com/photo-1486572788966-cfd3df1f5b42"
+    ],
+    "home-kitchen": [
+      "https://images.unsplash.com/photo-1556911220-bff31c812dba",
+      "https://images.unsplash.com/photo-1556911261-6bd341186b2f"
+    ],
+    "beauty": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348"
+    ],
+    "grocery": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e"
+    ],
+    "sports-fitness": [
+      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    ]
+  },
+  "products": [
+    { "name": "iPhone 16 Pro", "category": "mobiles", "pricePaise": 12999900, "offer": "50% OFF" },
+    { "name": "Samsung Galaxy S25", "category": "mobiles", "pricePaise": 8099900, "offer": "20% OFF" },
+    { "name": "OnePlus 14", "category": "mobiles", "pricePaise": 6999900, "offer": "15% OFF" },
+    { "name": "Gaming Laptop", "category": "laptops", "pricePaise": 7999900, "offer": "35% OFF" },
+    { "name": "HP Laptop", "category": "laptops", "pricePaise": 6499900, "offer": "25% OFF" },
+    { "name": "Dell Inspiron", "category": "laptops", "pricePaise": 7299900, "offer": "20% OFF" },
+    { "name": "MacBook Air", "category": "laptops", "pricePaise": 11490000, "offer": "10% OFF" },
+    { "name": "Men's T-Shirts", "category": "fashion", "pricePaise": 99900, "offer": "40% OFF" },
+    { "name": "Women's Dresses", "category": "fashion", "pricePaise": 249900, "offer": "35% OFF" },
+    { "name": "Jeans", "category": "fashion", "pricePaise": 199900, "offer": "30% OFF" },
+    { "name": "Nike Shoes", "category": "fashion", "pricePaise": 499900, "offer": "40% OFF" },
+    { "name": "Adidas Sneakers", "category": "fashion", "pricePaise": 549900, "offer": "30% OFF" },
+    { "name": "Jackets", "category": "fashion", "pricePaise": 399900, "offer": "25% OFF" },
+    { "name": "Watches", "category": "fashion", "pricePaise": 299900, "offer": "35% OFF" },
+    { "name": "Handbags", "category": "fashion", "pricePaise": 349900, "offer": "30% OFF" },
+    { "name": "iPad Air", "category": "electronics", "pricePaise": 5990000, "offer": "15% OFF" },
+    { "name": "Apple Watch", "category": "electronics", "pricePaise": 4190000, "offer": "10% OFF" },
+    { "name": "AirPods Pro", "category": "electronics", "pricePaise": 2490000, "offer": "20% OFF" },
+    { "name": "Sony Headphones", "category": "electronics", "pricePaise": 1299900, "offer": "30% OFF" },
+    { "name": "Keyboard", "category": "electronics", "pricePaise": 149900, "offer": "25% OFF" },
+    { "name": "Mouse", "category": "electronics", "pricePaise": 79900, "offer": "20% OFF" },
+    { "name": "Monitor", "category": "electronics", "pricePaise": 1299900, "offer": "15% OFF" },
+    { "name": "SSD Storage", "category": "electronics", "pricePaise": 549900, "offer": "20% OFF" },
+    { "name": "PlayStation 5", "category": "electronics", "pricePaise": 5499000, "offer": "10% OFF" },
+    { "name": "Xbox Series X", "category": "electronics", "pricePaise": 5299000, "offer": "10% OFF" },
+    { "name": "Gaming Chair", "category": "electronics", "pricePaise": 1299900, "offer": "20% OFF" },
+    { "name": "Gaming Mouse", "category": "electronics", "pricePaise": 249900, "offer": "25% OFF" },
+    { "name": "Gaming Keyboard", "category": "electronics", "pricePaise": 399900, "offer": "20% OFF" },
+    { "name": "Mixer Grinder", "category": "home-kitchen", "pricePaise": 349900, "offer": "25% OFF" },
+    { "name": "Pressure Cooker", "category": "home-kitchen", "pricePaise": 249900, "offer": "20% OFF" },
+    { "name": "Water Bottle", "category": "home-kitchen", "pricePaise": 59900, "offer": "30% OFF" },
+    { "name": "Dining Set", "category": "home-kitchen", "pricePaise": 399900, "offer": "20% OFF" },
+    { "name": "Air Fryer", "category": "home-kitchen", "pricePaise": 699900, "offer": "25% OFF" },
+    { "name": "Coffee Maker", "category": "home-kitchen", "pricePaise": 549900, "offer": "15% OFF" },
+    { "name": "Lakme Lipstick", "category": "beauty", "pricePaise": 49900, "offer": "20% OFF" },
+    { "name": "Maybelline Mascara", "category": "beauty", "pricePaise": 59900, "offer": "15% OFF" },
+    { "name": "Mamaearth Face Wash", "category": "beauty", "pricePaise": 29900, "offer": "20% OFF" },
+    { "name": "Nivea Moisturizer", "category": "beauty", "pricePaise": 34900, "offer": "15% OFF" },
+    { "name": "Tata Salt", "category": "grocery", "pricePaise": 2800, "offer": "10% OFF" },
+    { "name": "Aashirvaad Atta", "category": "grocery", "pricePaise": 29900, "offer": "10% OFF" },
+    { "name": "India Gate Basmati Rice", "category": "grocery", "pricePaise": 39900, "offer": "15% OFF" },
+    { "name": "Tata Tea Gold", "category": "grocery", "pricePaise": 24900, "offer": "10% OFF" },
+    { "name": "Decathlon Yoga Mat", "category": "sports-fitness", "pricePaise": 99900, "offer": "20% OFF" },
+    { "name": "Fitbit Smart Band", "category": "sports-fitness", "pricePaise": 799900, "offer": "15% OFF" },
+    { "name": "Dumbbells Set", "category": "sports-fitness", "pricePaise": 199900, "offer": "20% OFF" },
+    { "name": "Puma Running Shoes", "category": "sports-fitness", "pricePaise": 399900, "offer": "25% OFF" }
+  ]
+}
